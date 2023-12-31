@@ -40,7 +40,7 @@ As a person with the ability to think outside the box and consider multiple pers
                     </a>
                       <a href="https://discord.com/users/zogratis17" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
                     </picture>
@@ -54,7 +54,7 @@ As a person with the ability to think outside the box and consider multiple pers
                     </a>
                       <a href="https://zogratis17.hashnode.dev" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
                     </picture>
@@ -75,7 +75,7 @@ As a person with the ability to think outside the box and consider multiple pers
                     </a>
                       <a href="https://www.stackoverflow.com/users/21134200/lucius-zogratis" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                     </picture>
@@ -87,5 +87,9 @@ As a person with the ability to think outside the box and consider multiple pers
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
                     </a>
- </p>### Badges<b>My GitHub Stats</b>
- <a href="http://www.github.com/zogratis17"><img src="https://github-readme-stats.vercel.app/api?username=zogratis17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zogratis17's GitHub stats" /></a><a href="https://github.com/zogratis17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogratis17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ </p>
+ <b>My GitHub Stats</b>
+  <p align="left">
+                   <a href="http://www.github.com/zogratis17"><img src="https://github-readme-stats.vercel.app/api?username=zogratis17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zogratis17's GitHub stats" /></a>
+                   <a href="https://github.com/zogratis17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogratis17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                   </p>
