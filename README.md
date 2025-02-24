@@ -13,6 +13,11 @@ As a person with the ability to think outside the box and consider multiple pers
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  Jack of all trades , master of adaptability.<a href="https://www.github.com/zogratis17" target="_blank" rel="noreferrer">
 
+## 📈 LeetCode Stats
+![LeetCode Profile](https://leetcard.jacoblin.cool/zogratis17?ext=heatmap)
+
+<!--<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&animated=true" alt="LeetCode Badges"/>-->
+
 <img src="https://img.shields.io/github/followers/zogratis17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
    ### Skills 
 <p align="left">
