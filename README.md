@@ -2,7 +2,7 @@
 As a person with the ability to think outside the box and consider multiple perspectives allows me to identify creative solutions that others may not have thought of.<br>I thrive on challenging problems that require innovative thinking and enjoy working in collaborative environments where diverse perspectives are valued.<br>Additionally, my strong analytical and problem-solving skills enable me to break down complex issues and develop a systematic approach to finding solutions.<br><br>    🌍  I'm based in Coimbatore, India<br>    🖥️  See my portfolio at Links to my Socials<br>    ✉️  You can contact me at hariprasathnt@yahoo.com<br>    🧠  I'm learning Web Development based on MERN<br>    🤝  I'm open to collaborating on Interesting Projects<br>    ⚡  Jack of all trades , master of adaptability.
 
 ## 📈 LeetCode Stats
-![LeetCode Profile](https://leetcard.jacoblin.cool/zogratis17?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/zogratis17?theme=wtf&font=Ubuntu%20Mono&ext=heatmap)
 
 <!--<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&animated=true" alt="LeetCode Badges"/>-->
 
