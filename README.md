@@ -1,5 +1,7 @@
 # 💫 About Me:
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI%2FML+Enthusiast;Python+Developer;Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+an+AI%2FML+Enthusiast;I'm+a+Python+Developer;I'm+a+Data+Scientist;I'm+a+Data+Analyst)](https://git.io/typing-svg)
+
 As a person with the ability to think outside the box and consider multiple perspectives allows me to identify creative solutions that others may not have thought of.<br>I thrive on challenging problems that require innovative thinking and enjoy working in collaborative environments where diverse perspectives are valued.<br>Additionally, my strong analytical and problem-solving skills enable me to break down complex issues and develop a systematic approach to finding solutions.<br><br>    🌍  I'm based in Coimbatore, India<br>    🖥️  See my portfolio at Links to my Socials<br>    ✉️  You can contact me at hariprasathnt@yahoo.com<br>    🧠  I'm exploring the field of AI/ML 🧠<br>    🤝  I'm open to collaborating on Interesting Projects<br>    ⚡  Jack of all trades , master of adaptability.
 
 ## 📈 LeetCode Stats
