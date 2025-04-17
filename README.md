@@ -1,4 +1,5 @@
 # 💫 About Me:
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&lines=AI/ML+Enthusiast;Python+Developer;Data Scientist;Data Analyst;GenAI Developer" alt="typani" />
 As a person with the ability to think outside the box and consider multiple perspectives allows me to identify creative solutions that others may not have thought of.<br>I thrive on challenging problems that require innovative thinking and enjoy working in collaborative environments where diverse perspectives are valued.<br>Additionally, my strong analytical and problem-solving skills enable me to break down complex issues and develop a systematic approach to finding solutions.<br><br>    🌍  I'm based in Coimbatore, India<br>    🖥️  See my portfolio at Links to my Socials<br>    ✉️  You can contact me at hariprasathnt@yahoo.com<br>    🧠  I'm exploring the field of AI/ML 🧠<br>    🤝  I'm open to collaborating on Interesting Projects<br>    ⚡  Jack of all trades , master of adaptability.
 
 ## 📈 LeetCode Stats
